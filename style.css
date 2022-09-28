@@ -1,0 +1,55 @@
+body {background-color: #fcf0f2;}
+img {
+  border-radius: 50%;
+  width: 250px;
+}
+h1 {
+  font-family: 'Lobster', cursive;
+  letter-spacing: 0.4ch;
+  font-size: 36px;
+  margin-bottom: 3%;
+}
+h3{
+    text-align: center;
+    font-family: 'Lobster';
+    font-weight: 100;
+    font-size: 28px;
+  }
+#info h4{
+    
+    font-family: 'Lobster Two', cursive;
+    font-weight: 100;
+    font-size: 28px;
+    margin-top: 5%;
+    line-height: 92%;
+}
+#college h4{
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 440;
+    margin: 0.2%;
+}
+
+.skill{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4%;
+    font-family: 'Roboto';
+    src: url('../font/Roboto-Regular.ttf') format(ttf);
+}
+.work{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4%;
+    font-family: 'Roboto';
+    src: url('../font/Roboto-Regular.ttf') format(ttf);
+    text-align: justify;
+}
+.forms{
+    text-align: center;
+    line-height: 200%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4%;
+    font-family: 'Roboto';
+}
